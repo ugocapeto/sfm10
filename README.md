@@ -33,6 +33,6 @@ Info about sfm10 (theory behind it and how to use it) can be found here:
 
 Dependencies (check the Makefile in main):
 
-"common" repo
+common repo
 
-"er9b" repo
+er9b repo
