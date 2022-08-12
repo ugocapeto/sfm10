@@ -31,7 +31,7 @@ Info about sfm10 (theory behind it and how to use it) can be found here:
 
 [Structure from Motion 10 (SfM10)](http://3dstereophoto.blogspot.com/2016/04/structure-from-motion-10-sfm10.html)
 
-Dependencies (check the Makefiles):
+Dependencies (check the Makefile in main):
 
 "common" repo
 
