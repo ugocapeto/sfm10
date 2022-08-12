@@ -1,5 +1,5 @@
 # ignore object files and selected directories
 *.o
-liblbfgs
-liblbfgs-1.10
-pba
+liblbfgs/
+liblbfgs-1.10/
+pba/
