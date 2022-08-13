@@ -1,8 +1,0 @@
-# ignore output files
-*.sfm
-duh_*.jpg
-duh.nvm
-duh.ply
-F.txt
-good_match.txt
-match.txt
